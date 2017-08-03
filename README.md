@@ -16,5 +16,10 @@ Catalog:
             <td><a href="https://leetcode.com/problems/two-sum/description/">Two Sum</a></td>
             <td>Easy</td>
         </tr>
+        <tr>
+            <td>7</td>
+            <td><a href="https://leetcode.com/problems/reverse-integer/description/">Reverse Integer</a></td>
+            <td>Easy</td>
+        </tr>
     </tbody>
 </table>
