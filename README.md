@@ -21,5 +21,10 @@ Catalog:
             <td><a href="https://leetcode.com/problems/reverse-integer/description/">Reverse Integer</a></td>
             <td>Easy</td>
         </tr>
+        <tr>
+            <td>9</td>
+            <td><a href="https://leetcode.com/problems/palindrome-number/description/">Palindrome Number</a></td>
+            <td>Easy</td>
+        </tr>
     </tbody>
 </table>
