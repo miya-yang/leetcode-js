@@ -26,5 +26,10 @@ Catalog:
             <td><a href="https://leetcode.com/problems/palindrome-number/description/">Palindrome Number</a></td>
             <td>Easy</td>
         </tr>
+        <tr>
+             <td>136</td>
+             <td><a href="https://leetcode.com/problems/single-number/description/">Single Number</a></td>
+             <td>Easy</td>
+        </tr>
     </tbody>
 </table>
