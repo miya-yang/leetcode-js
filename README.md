@@ -31,5 +31,10 @@ Catalog:
              <td><a href="https://leetcode.com/problems/single-number/description/">Single Number</a></td>
              <td>Easy</td>
         </tr>
+        <tr>
+            <td>344</td>
+            <td><a href="https://leetcode.com/problems/reverse-string/description/">Reverse String</a></td>
+            <td>Easy</td>
+       </tr>
     </tbody>
 </table>
