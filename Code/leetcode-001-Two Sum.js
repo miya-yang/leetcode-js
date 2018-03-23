@@ -15,8 +15,21 @@ var twoSum = function(nums, target) {
     }
 };
 
+// 二次提交版本
+var twoSum2 = function (nums, target) {
+    var temp = {};
+    for (var i = 0; i < nums.length; i++) {
+        // 临时变量中不存在以该值或其对象值为key的对象
+        if (!(target - nums[i] in temp)) {
+            temp[nums[i]] = i;
+        } else {
+            return [temp[target - nums[i]], i];
+        }
+    }
+};
+
 // 或许是更好的版本
-var twoSum2 = function(nums, target) {
+var twoSum3 = function(nums, target) {
     var temp = {};
     for(var i = 0;i < nums.length;i++) {
         if(temp[target - nums[i]] !== undefined) {
