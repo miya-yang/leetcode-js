@@ -3,7 +3,7 @@
  * @return {number}
  */
 
-// 提交通过的版本
+// 初次提交版本
 var singleNumber = function(nums) {
     var num = {};
     for(var i = 0;i < nums.length;i++) {
@@ -16,8 +16,21 @@ var singleNumber = function(nums) {
     }
 };
 
-// 或许是更好的版本
+// 二次提交版本
 var singleNumber2 = function(nums) {
+	var temp = {};
+	for (var i = 0; i < nums.length; i++) {
+		nums[i] in temp ? (temp[nums[i]] = true) : (temp[nums[i]] = false);
+	}
+	for (var i in temp) {
+		if (!temp[i]) {
+			return parseInt(i);
+		}
+	}
+};
+
+// 或许是更好的版本
+var singleNumber3 = function(nums) {
     for(var i = 0;i < nums.length;i++) {
         nums[i] ^= nums[i-1];
     }
