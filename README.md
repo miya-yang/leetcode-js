@@ -10,6 +10,7 @@
 | 1 | [两数之和](https://leetcode-cn.com/problems/two-sum/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-001-Two%20Sum.js) |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-007-Reverse%20Integer.js) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-009-Palindrome%20Number.js) |
+| 27 | [移除元素](https://leetcode-cn.com/problems/remove-element/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-027-Remove%20Element.js) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-136-Single%20Number.js) |
 | 217 | [存在重复](https://leetcode-cn.com/problems/contains-duplicate/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-217-Contains%20Duplicate.js) |
 | 268 | [缺失数字](https://leetcode-cn.com/problems/missing-number/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-268-Missing%20Number.js) |
