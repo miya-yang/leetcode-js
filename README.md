@@ -18,4 +18,5 @@
 | 283 | [移动零](https://leetcode-cn.com/problems/move-zeroes/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-283-Move%20Zeroes.js) |
 | 344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-344-Reverse%20String.js) |
 | 485 | [最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-485-Max%20Consecutive%20Ones.js) |
+| 605 | [种花问题](https://leetcode-cn.com/problems/can-place-flowers/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-605-Can%20Place%20Flowers.js) |
 | 747 | [至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/hints/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-747-Largest%20Number%20At%20Least%20Twice%20of%20Others.js) |
