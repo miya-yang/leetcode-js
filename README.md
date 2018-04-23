@@ -8,7 +8,7 @@
 | # | 标题 | 难度 | 代码 |
 | ------------- | ------------- | ------------- | ------------- |
 | 1 | [两数之和](https://leetcode-cn.com/problems/two-sum/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-001-Two%20Sum.js) |
-| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-007-Reverse%20Integer.js) |
+| 7 | [反转整数](https://leetcode-cn.com/problems/reverse-integer/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-007-Reverse%20Integer.js) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-009-Palindrome%20Number.js) |
 | 27 | [移除元素](https://leetcode-cn.com/problems/remove-element/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-027-Remove%20Element.js) |
 | 136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-136-Single%20Number.js) |
