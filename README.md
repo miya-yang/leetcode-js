@@ -7,11 +7,12 @@
 
 | # | 标题 | 难度 | 代码 |
 | ------------- | ------------- | ------------- | ------------- |
-| 1 | [两数之和](https://leetcode-cn.com/problems/two-sum/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-001-Two%20Sum.js) |
-| 7 | [反转整数](https://leetcode-cn.com/problems/reverse-integer/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-007-Reverse%20Integer.js) |
-| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-009-Palindrome%20Number.js) |
-| 27 | [移除元素](https://leetcode-cn.com/problems/remove-element/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-027-Remove%20Element.js) |
-| 28 | [实现strStr()](https://leetcode-cn.com/problems/implement-strstr/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-028-Implement%20strStr.js) |
+| 001 | [两数之和](https://leetcode-cn.com/problems/two-sum/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-001-Two%20Sum.js) |
+| 007 | [反转整数](https://leetcode-cn.com/problems/reverse-integer/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-007-Reverse%20Integer.js) |
+| 009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-009-Palindrome%20Number.js) |
+| 026 | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-026-Remove%20Duplicates%20from%20Sorted%20Array.js) |
+| 027 | [移除元素](https://leetcode-cn.com/problems/remove-element/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-027-Remove%20Element.js) |
+| 028 | [实现strStr()](https://leetcode-cn.com/problems/implement-strstr/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-028-Implement%20strStr.js) |
 | 136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-136-Single%20Number.js) |
 | 217 | [存在重复](https://leetcode-cn.com/problems/contains-duplicate/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-217-Contains%20Duplicate.js) |
 | 268 | [缺失数字](https://leetcode-cn.com/problems/missing-number/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-268-Missing%20Number.js) |
