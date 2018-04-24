@@ -13,6 +13,7 @@
 | 026 | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-026-Remove%20Duplicates%20from%20Sorted%20Array.js) |
 | 027 | [移除元素](https://leetcode-cn.com/problems/remove-element/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-027-Remove%20Element.js) |
 | 028 | [实现strStr()](https://leetcode-cn.com/problems/implement-strstr/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-028-Implement%20strStr.js) |
+| 035 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-035-Search%20Insert%20Position.js) |
 | 136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-136-Single%20Number.js) |
 | 217 | [存在重复](https://leetcode-cn.com/problems/contains-duplicate/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-217-Contains%20Duplicate.js) |
 | 268 | [缺失数字](https://leetcode-cn.com/problems/missing-number/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-268-Missing%20Number.js) |
