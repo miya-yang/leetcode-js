@@ -5,8 +5,8 @@
 var missingNumber = function (nums) {
   for (var i = 0; i < nums.length; i++) {
     if (nums.indexOf(i) === -1) {
-      break;
+      break
     }
   }
-  return i;
-};
+  return i
+}

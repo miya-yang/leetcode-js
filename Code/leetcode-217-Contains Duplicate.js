@@ -3,13 +3,13 @@
  * @return {boolean}
  */
 var containsDuplicate = function (nums) {
-  var temp = {};
+  var temp = {}
   for (var i = 0; i < nums.length; i++) {
     if (temp[nums[i]] === undefined) {
-      temp[nums[i]] = true;
+      temp[nums[i]] = true
     } else {
-      return true;
+      return true
     }
   }
-  return false;
-};
+  return false
+}
