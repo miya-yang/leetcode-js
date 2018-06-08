@@ -16,6 +16,7 @@
 | 027 | [移除元素](https://leetcode-cn.com/problems/remove-element/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-027-Remove%20Element.js) |
 | 028 | [实现strStr()](https://leetcode-cn.com/problems/implement-strstr/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-028-Implement%20strStr.js) |
 | 035 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-035-Search%20Insert%20Position.js) |
+| 058 | [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-058-Length%20of%20Last%20Word.js) |
 | 136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-136-Single%20Number.js) |
 | 217 | [存在重复](https://leetcode-cn.com/problems/contains-duplicate/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-217-Contains%20Duplicate.js) |
 | 268 | [缺失数字](https://leetcode-cn.com/problems/missing-number/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-268-Missing%20Number.js) |
