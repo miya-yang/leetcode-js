@@ -2,7 +2,7 @@
  * @param {number[]} prices
  * @return {number}
  */
-var maxProfit = function(prices) {
+var maxProfit = function (prices) {
   let result = 0
   let minPrice = Number.MAX_SAFE_INTEGER
   for (let i = 0; i < prices.length; i++) {
@@ -10,4 +10,4 @@ var maxProfit = function(prices) {
     result = Math.max(result, prices[i] - minPrice)
   }
   return result
-};
+}
