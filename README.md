@@ -24,6 +24,7 @@
 | 283 | [移动零](https://leetcode-cn.com/problems/move-zeroes/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-283-Move%20Zeroes.js) |
 | 344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-344-Reverse%20String.js) |
 | 485 | [最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-485-Max%20Consecutive%20Ones.js) |
+| 496 | [下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-496-Next%20Greater%20Element%20I.js) |
 | 551 | [学生出勤纪录 I](https://leetcode-cn.com/problems/student-attendance-record-i/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-551-Student%20Attendance%20Record%20I.js) |
 | 557 | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-557-Reverse%20Words%20in%20a%20String%20III.js) |
 | 561 | [数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-561-Array%20Partition%20I.js) |
