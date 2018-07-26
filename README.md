@@ -32,5 +32,6 @@
 | 657 | [判断路线成圈](https://leetcode-cn.com/problems/judge-route-circle/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-657-Judge%20Route%20Circle.js) |
 | 682 | [棒球比赛](https://leetcode-cn.com/problems/baseball-game/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-682-Baseball%20Game.js) |
 | 747 | [至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-747-Largest%20Number%20At%20Least%20Twice%20of%20Others.js) |
+| 771 | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-771-Jewels%20and%20Stones.js) |
 | 804 | [唯一摩尔斯密码词](https://leetcode-cn.com/problems/unique-morse-code-words/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-804-Unique%20Morse%20Code%20Words.js) |
 | 832 | [翻转图像](https://leetcode-cn.com/problems/flipping-an-image/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-832-Flipping%20an%20Image.js) |
