@@ -36,3 +36,4 @@
 | 771 | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-771-Jewels%20and%20Stones.js) |
 | 804 | [唯一摩尔斯密码词](https://leetcode-cn.com/problems/unique-morse-code-words/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-804-Unique%20Morse%20Code%20Words.js) |
 | 832 | [翻转图像](https://leetcode-cn.com/problems/flipping-an-image/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-832-Flipping%20an%20Image.js) |
+| 852 | [山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-852-Peak%20Index%20in%20a%20Mountain%20Array.js) |
