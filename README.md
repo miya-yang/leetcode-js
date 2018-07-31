@@ -25,6 +25,7 @@
 | 268 | [缺失数字](https://leetcode-cn.com/problems/missing-number/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-268-Missing%20Number.js) |
 | 283 | [移动零](https://leetcode-cn.com/problems/move-zeroes/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-283-Move%20Zeroes.js) |
 | 344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-344-Reverse%20String.js) |
+| 387 | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-387-First%20Unique%20Character%20in%20a%20String.js) |
 | 476 | [数字的补数](https://leetcode-cn.com/problems/number-complement/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-476-Number%20Complement.js) |
 | 485 | [最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-485-Max%20Consecutive%20Ones.js) |
 | 496 | [下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-496-Next%20Greater%20Element%20I.js) |
