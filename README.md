@@ -24,6 +24,7 @@
 | 217 | [存在重复](https://leetcode-cn.com/problems/contains-duplicate/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-217-Contains%20Duplicate.js) |
 | 268 | [缺失数字](https://leetcode-cn.com/problems/missing-number/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-268-Missing%20Number.js) |
 | 283 | [移动零](https://leetcode-cn.com/problems/move-zeroes/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-283-Move%20Zeroes.js) |
+| 338 | [Bit位计数](https://leetcode-cn.com/problems/counting-bits/description/) | 中等 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-338-Counting%20Bits.js) |
 | 344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-344-Reverse%20String.js) |
 | 387 | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-387-First%20Unique%20Character%20in%20a%20String.js) |
 | 463 | [岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-463-Island%20Perimeter.js) |
