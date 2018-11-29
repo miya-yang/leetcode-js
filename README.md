@@ -55,3 +55,4 @@
 | 832 | [翻转图像](https://leetcode-cn.com/problems/flipping-an-image/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-832-Flipping%20an%20Image.js) |
 | 852 | [山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-852-Peak%20Index%20in%20a%20Mountain%20Array.js) |
 | 860 | [柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-860-Lemonade%20Change.js) |
+| 905 | [按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/description/) | 简单 | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-905-Sort%20Array%20By%20Parity.js) |
