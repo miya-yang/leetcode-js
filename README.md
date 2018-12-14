@@ -37,6 +37,7 @@
 | 268 | [缺失数字](https://leetcode-cn.com/problems/missing-number/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-268-Missing%20Number.js) |
 | 278 | [第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-278-First%20Bad%20Version.js) |
 | 283 | [移动零](https://leetcode-cn.com/problems/move-zeroes/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-283-Move%20Zeroes.js) |
+| 292 | [Nim游戏](https://leetcode-cn.com/problems/nim-game/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-292-Nim%20Game.js) |
 | 338 | [Bit位计数](https://leetcode-cn.com/problems/counting-bits/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-338-Counting%20Bits.js) |
 | 344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-344-Reverse%20String.js) |
 | 387 | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-387-First%20Unique%20Character%20in%20a%20String.js) |
