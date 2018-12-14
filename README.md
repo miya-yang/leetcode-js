@@ -64,3 +64,4 @@
 | 860 | [柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-860-Lemonade%20Change.js) |
 | 896 | [单调数列](https://leetcode-cn.com/problems/monotonic-array/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-896-Monotonic%20Array.js) |
 | 905 | [按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-905-Sort%20Array%20By%20Parity.js) |
+| 929 | [独特的电子邮件地址](https://leetcode-cn.com/problems/unique-email-addresses/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-929-Unique%20Email%20Addresses.js) |
