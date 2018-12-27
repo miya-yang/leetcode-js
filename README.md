@@ -68,3 +68,4 @@
 | 905 | [按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-905-Sort%20Array%20By%20Parity.js) |
 | 922 | [按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-922-Sort%20Array%20By%20Parity%20II.js) |
 | 929 | [独特的电子邮件地址](https://leetcode-cn.com/problems/unique-email-addresses/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-929-Unique%20Email%20Addresses.js) |
+| 961 | [重复 N 次的元素](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-961-N-Repeated%20Element%20in%20Size%202N%20Array.js) |
