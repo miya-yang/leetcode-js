@@ -63,6 +63,7 @@
 | 620 | [有趣的电影](https://leetcode-cn.com/problems/not-boring-movies/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-620-Not%20Boring%20Movies.sql) |
 | 657 | [判断路线成圈](https://leetcode-cn.com/problems/judge-route-circle/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-657-Judge%20Route%20Circle.js) |
 | 682 | [棒球比赛](https://leetcode-cn.com/problems/baseball-game/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-682-Baseball%20Game.js) |
+| 696 | [计数二进制子串](https://leetcode-cn.com/problems/count-binary-substrings/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-696-Count%20Binary%20Substrings.js) |
 | 704 | [二分查找](https://leetcode-cn.com/problems/binary-search/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-704-Binary%20Search.js) |
 | 709 | [转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-709-To%20Lower%20Case.js) |
 | 724 | [寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-724-Find%20Pivot%20Index.js) |
