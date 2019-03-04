@@ -51,6 +51,7 @@
 | 344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-344-Reverse%20String.js) |
 | 387 | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-387-First%20Unique%20Character%20in%20a%20String.js) |
 | 455 | [分发饼干](https://leetcode-cn.com/problems/assign-cookies/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-455-Assign%20Cookies.js) |
+| 459 | [重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-459-Repeated%20Substring%20Pattern.js) |
 | 461 | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-461-Hamming%20Distance.js) |
 | 463 | [岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-463-Island%20Perimeter.js) |
 | 476 | [数字的补数](https://leetcode-cn.com/problems/number-complement/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-476-Number%20Complement.js) |
