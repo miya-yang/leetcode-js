@@ -29,6 +29,7 @@
 | 075 | [颜色分类](https://leetcode-cn.com/problems/sort-colors/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-075-Sort%20Colors.js) |
 | 088 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-088-Merge%20Sorted%20Array.js) |
 | 089 | [格雷编码](https://leetcode-cn.com/problems/gray-code/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-089-Gray%20Code.js) |
+| 094 | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-094-Binary%20Tree%20Inorder%20Traversal.js) |
 | 118 | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-118-Pascal's%20Triangle.js) |
 | 121 | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-121-Best%20Time%20to%20Buy%20and%20Sell%20Stock.js) |
 | 125 | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-125-Valid%20Palindrome.js) |
