@@ -92,3 +92,4 @@
 | 929 | [独特的电子邮件地址](https://leetcode-cn.com/problems/unique-email-addresses/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-929-Unique%20Email%20Addresses.js) |
 | 961 | [重复 N 次的元素](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-961-N-Repeated%20Element%20in%20Size%202N%20Array.js) |
 | 1078 | [Bigram 分词](https://leetcode-cn.com/problems/occurrences-after-bigram/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-1078-Occurrences%20After%20Bigram.js) |
+| 1108 | [IP 地址无效化](https://leetcode-cn.com/problems/defanging-an-ip-address/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-1108-Defanging%20an%20IP%20Address.js) |
