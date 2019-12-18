@@ -51,6 +51,7 @@
 | 225 | [用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-225-Implement%20Stack%20using%20Queues.js) |
 | 232 | [用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-232-Implement%20Queue%20using%20Stacks.js) |
 | 237 | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-237-Delete%20Node%20in%20a%20Linked%20List.js) |
+| 242 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-242-Valid%20Anagram.js) |
 | 268 | [缺失数字](https://leetcode-cn.com/problems/missing-number/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-268-Missing%20Number.js) |
 | 278 | [第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-278-First%20Bad%20Version.js) |
 | 283 | [移动零](https://leetcode-cn.com/problems/move-zeroes/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-283-Move%20Zeroes.js) |
