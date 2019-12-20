@@ -3,6 +3,8 @@
 
 **使用[LeetCode-cn](https://leetcode-cn.com/)刷题**
 
+解题进度：简单/73, 中等/13, 困难/4
+
 目录：
 
 | # | 标题 | 难度 | 代码 |
@@ -20,6 +22,7 @@
 | 028 | [实现strStr()](https://leetcode-cn.com/problems/implement-strstr/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-028-Implement%20strStr.js) |
 | 035 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-035-Search%20Insert%20Position.js) |
 | 036 | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-036-Valid%20Sudoku.js) |
+| 041 | [缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/description/) | <font color=red>困难</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-041-First%20Missing%20Positive.js) |
 | 048 | [旋转图像](https://leetcode-cn.com/problems/rotate-image/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-048-Rotate%20Image.js) |
 | 053 | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-053-Maximum%20Subarray.js) |
 | 058 | [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-058-Length%20of%20Last%20Word.js) |
