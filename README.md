@@ -3,7 +3,7 @@
 
 **使用[LeetCode-cn](https://leetcode-cn.com/)刷题**
 
-解题进度：简单/74, 中等/15, 困难/5
+解题进度：简单/75, 中等/15, 困难/5
 
 目录：
 
@@ -41,6 +41,7 @@
 | 104 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-104-Maximum%20Depth%20of%20Binary%20Tree.js) |
 | 118 | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-118-Pascal's%20Triangle.js) |
 | 121 | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-121-Best%20Time%20to%20Buy%20and%20Sell%20Stock.js) |
+| 122 | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-122-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.js) |
 | 125 | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-125-Valid%20Palindrome.js) |
 | 136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-136-Single%20Number.js) |
 | 144 | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-144-Binary%20Tree%20Preorder%20Traversal.js) |
