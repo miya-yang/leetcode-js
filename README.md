@@ -67,6 +67,7 @@
 | 338 | [Bit位计数](https://leetcode-cn.com/problems/counting-bits/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-338-Counting%20Bits.js) |
 | 344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-344-Reverse%20String.js) |
 | 387 | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-387-First%20Unique%20Character%20in%20a%20String.js) |
+| 392 | [判断子序列](https://leetcode-cn.com/problems/is-subsequence/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-392-Is%20Subsequence.js) |
 | 455 | [分发饼干](https://leetcode-cn.com/problems/assign-cookies/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-455-Assign%20Cookies.js) |
 | 459 | [重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-459-Repeated%20Substring%20Pattern.js) |
 | 461 | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-461-Hamming%20Distance.js) |
