@@ -3,7 +3,7 @@
 
 **使用[LeetCode-cn](https://leetcode-cn.com/)刷题**
 
-解题进度：简单/77, 中等/16, 困难/5
+解题进度：简单/79, 中等/16, 困难/5
 
 目录：
 
@@ -33,6 +33,7 @@
 | 067 | [二进制求和](https://leetcode-cn.com/problems/add-binary/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-067-Add%20Binary.js) |
 | 070 | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-070-Climbing%20Stairs.js) |
 | 075 | [颜色分类](https://leetcode-cn.com/problems/sort-colors/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-075-Sort%20Colors.js) |
+| 083 | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-083-Remove%20Duplicates%20from%20Sorted%20List.js) |
 | 088 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-088-Merge%20Sorted%20Array.js) |
 | 089 | [格雷编码](https://leetcode-cn.com/problems/gray-code/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-089-Gray%20Code.js) |
 | 093 | [复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-093-Restore%20IP%20Addresses.js) |
