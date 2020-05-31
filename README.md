@@ -3,7 +3,7 @@
 
 **使用[LeetCode-cn](https://leetcode-cn.com/)刷题**
 
-解题进度：简单/84, 中等/16, 困难/5
+**个人LeetCode账号：[miyang](https://leetcode-cn.com/u/miyang/)**
 
 目录：
 
@@ -111,6 +111,7 @@
 | 1290 | [二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-1290-Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.js) |
 | 面试题 18 | [删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/面试题-18-删除链表的节点%20LCOF.js) |
 | 面试题 22 | [链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/面试题-22-链表中倒数第k个节点%20LCOF.js) |
+| 面试题 24 | [反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/面试题-24-反转链表%20LCOF.js) |
 | 面试题 01.01 | [判定字符是否唯一](https://leetcode-cn.com/problems/is-unique-lcci/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/面试题-01.01-Is%20Unique%20LCCI.js) |
 | 面试题 02.02 | [返回倒数第 k 个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/面试题-02.02-Kth%20Node%20From%20End%20of%20List%20LCCI.js) |
 | 面试题 02.03 | [删除中间节点](https://leetcode-cn.com/problems/delete-middle-node-lcci/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/面试题-02.03-Delete%20Middle%20Node%20LCCI.js) |
