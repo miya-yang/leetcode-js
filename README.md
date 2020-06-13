@@ -113,6 +113,7 @@
 | 面试题 04 | [二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/面试题-04-二维数组中的查找%20LCOF.js) |
 | 面试题 09 | [用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/面试题-09-用两个栈实现队列%20LCOF.js) |
 | 面试题 10- I | [斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/面试题-10-%20I-斐波那契数列%20%20LCOF.js) |
+| 面试题 10- II | [青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/面试题-10-%20II-青蛙跳台阶问题%20%20LCOF.js) |
 | 面试题 18 | [删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/面试题-18-删除链表的节点%20LCOF.js) |
 | 面试题 22 | [链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/面试题-22-链表中倒数第k个节点%20LCOF.js) |
 | 面试题 24 | [反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/面试题-24-反转链表%20LCOF.js) |
