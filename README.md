@@ -124,3 +124,4 @@
 | 面试题 01.02 | [判定是否互为字符重排](https://leetcode-cn.com/problems/check-permutation-lcci/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/面试题-01.02-Check%20Permutation%20LCCI.js) |
 | 面试题 02.02 | [返回倒数第 k 个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/面试题-02.02-Kth%20Node%20From%20End%20of%20List%20LCCI.js) |
 | 面试题 02.03 | [删除中间节点](https://leetcode-cn.com/problems/delete-middle-node-lcci/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/面试题-02.03-Delete%20Middle%20Node%20LCCI.js) |
+| 面试题 16.02 | [单词频率](https://leetcode-cn.com/problems/words-frequency-lcci/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/面试题-16.02-Words%20Frequency%20LCCI.js) |
