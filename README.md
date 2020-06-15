@@ -91,6 +91,7 @@
 | 682 | [棒球比赛](https://leetcode-cn.com/problems/baseball-game/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-682-Baseball%20Game.js) |
 | 696 | [计数二进制子串](https://leetcode-cn.com/problems/count-binary-substrings/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-696-Count%20Binary%20Substrings.js) |
 | 704 | [二分查找](https://leetcode-cn.com/problems/binary-search/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-704-Binary%20Search.js) |
+| 705 | [设计哈希集合](https://leetcode-cn.com/problems/design-hashset/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-705-Design%20HashSet.js) |
 | 709 | [转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-709-To%20Lower%20Case.js) |
 | 724 | [寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-724-Find%20Pivot%20Index.js) |
 | 747 | [至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-747-Largest%20Number%20At%20Least%20Twice%20of%20Others.js) |
