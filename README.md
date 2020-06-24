@@ -88,6 +88,7 @@
 | 557 | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-557-Reverse%20Words%20in%20a%20String%20III.js) |
 | 561 | [数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-561-Array%20Partition%20I.js) |
 | 595 | [大的国家](https://leetcode-cn.com/problems/big-countries/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-595-Big%20Countries.sql) |
+| 599 | [两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-599-Minimum%20Index%20Sum%20of%20Two%20Lists.js) |
 | 605 | [种花问题](https://leetcode-cn.com/problems/can-place-flowers/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-605-Can%20Place%20Flowers.js) |
 | 620 | [有趣的电影](https://leetcode-cn.com/problems/not-boring-movies/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-620-Not%20Boring%20Movies.sql) |
 | 657 | [判断路线成圈](https://leetcode-cn.com/problems/judge-route-circle/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-657-Judge%20Route%20Circle.js) |
