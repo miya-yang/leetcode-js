@@ -38,3 +38,29 @@ var levelOrder = function (root) {
   BFS(nodeArr)
   return result
 }
+
+// 解法 2
+var levelOrder = function(root) {
+  let result = []
+  if (!root) {
+      return result
+  }
+  let curr = [] // 用于存储当前层级的结点
+  let last = [] // 用于存储下一层级的结点
+  let queue = [root]
+  while (queue.length > 0 || last.length > 0) {
+      if (queue.length === 0) {
+          result.push(curr)
+          queue = last
+          curr = []
+          last = []
+      }
+      let p = queue.shift()
+      if (p) {
+          curr.push(p.val)
+          last.push(p.left)
+          last.push(p.right)
+      }
+  }
+  return result
+}
