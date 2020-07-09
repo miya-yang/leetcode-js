@@ -52,6 +52,7 @@
 | 151 | [翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-151-Reverse%20Words%20in%20a%20String.js) |
 | 164 | [最大间距](https://leetcode-cn.com/problems/maximum-gap/description/) | <font color=red>困难</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-164-Maximum%20Gap.js) |
 | 167 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-167-Two%20Sum%20II%20-%20Input%20array%20is%20sorted.js) |
+| 169 | [多数元素](https://leetcode-cn.com/problems/majority-element/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-169-Majority%20Element.js) |
 | 171 | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-171-Excel%20Sheet%20Column%20Number.js) |
 | 182 | [查找重复的电子邮箱](https://leetcode-cn.com/problems/duplicate-emails/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-182-Duplicate%20Emails.sql) |
 | 189 | [旋转数组](https://leetcode-cn.com/problems/rotate-array/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-189-Rotate%20Array.js) |
