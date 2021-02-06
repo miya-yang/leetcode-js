@@ -1,5 +1,9 @@
-function canPermutePalindrome(s: string): boolean {
-    const map: Object = {};
+/**
+ * @param {string} s
+ * @return {boolean}
+ */
+var canPermutePalindrome = function(s) {
+    const map = {};
     s.split('').forEach(item => {
         if (map[item]) {
             delete map[item];
