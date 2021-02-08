@@ -128,6 +128,7 @@
 | 1480 | [一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-1480-Running%20Sum%20of%201d%20Array.js) |
 | 面试题 03 | [数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/面试题-03-数组中重复的数字%20LCOF.js) |
 | 面试题 04 | [二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/面试题-04-二维数组中的查找%20LCOF.js) |
+| 面试题 05 | [替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/面试题-05-替换空格%20LCOF.js) |
 | 面试题 09 | [用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/面试题-09-用两个栈实现队列%20LCOF.js) |
 | 面试题 10- I | [斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/面试题-10-%20I-斐波那契数列%20%20LCOF.js) |
 | 面试题 10- II | [青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/面试题-10-%20II-青蛙跳台阶问题%20%20LCOF.js) |
