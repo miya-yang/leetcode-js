@@ -34,6 +34,7 @@
 | 066 | [加一](https://leetcode-cn.com/problems/plus-one/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-066-Plus%20One.js) |
 | 067 | [二进制求和](https://leetcode-cn.com/problems/add-binary/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-067-Add%20Binary.js) |
 | 070 | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-070-Climbing%20Stairs.js) |
+| 074 | [搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-074-Search%20a%202D%20Matrix.js) |
 | 075 | [颜色分类](https://leetcode-cn.com/problems/sort-colors/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-075-Sort%20Colors.js) |
 | 083 | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-083-Remove%20Duplicates%20from%20Sorted%20List.js) |
 | 088 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-088-Merge%20Sorted%20Array.js) |
