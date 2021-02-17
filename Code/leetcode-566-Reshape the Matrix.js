@@ -5,10 +5,7 @@
  * @return {number[][]}
  */
 var matrixReshape = function(nums, r, c) {
-    if (nums.length === 0 || (nums[0] && nums[0].length === 0)) {
-        return nums;
-    }
-    if (nums.length * nums[0].length !== r * c) {
+    if (nums.length === 0 || (nums[0] && nums[0].length === 0) || nums.length * nums[0].length !== r * c) {
         return nums;
     }
     const arr = [];
