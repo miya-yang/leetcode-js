@@ -31,6 +31,7 @@
 | 046 | [全排列](https://leetcode-cn.com/problems/permutations/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-046-Permutations.js) |
 | 048 | [旋转图像](https://leetcode-cn.com/problems/rotate-image/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-048-Rotate%20Image.js) |
 | 053 | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-053-Maximum%20Subarray.js) |
+| 054 | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-054-Spiral%20Matrix.js) |
 | 058 | [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-058-Length%20of%20Last%20Word.js) |
 | 059 | [螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-059-Spiral%20Matrix%20II.js) |
 | 066 | [加一](https://leetcode-cn.com/problems/plus-one/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-066-Plus%20One.js) |
