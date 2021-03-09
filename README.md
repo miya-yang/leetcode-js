@@ -82,6 +82,7 @@
 | 237 | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-237-Delete%20Node%20in%20a%20Linked%20List.js) |
 | 240 | [搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-240-Search%20a%202D%20Matrix%20II.js) |
 | 242 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-242-Valid%20Anagram.js) |
+| 257 | [二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-257-Binary%20Tree%20Paths.js) |
 | 268 | [缺失数字](https://leetcode-cn.com/problems/missing-number/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-268-Missing%20Number.js) |
 | 278 | [第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-278-First%20Bad%20Version.js) |
 | 283 | [移动零](https://leetcode-cn.com/problems/move-zeroes/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-283-Move%20Zeroes.js) |
