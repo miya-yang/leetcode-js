@@ -123,6 +123,7 @@
 | 605 | [种花问题](https://leetcode-cn.com/problems/can-place-flowers/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-605-Can%20Place%20Flowers.js) |
 | 620 | [有趣的电影](https://leetcode-cn.com/problems/not-boring-movies/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-620-Not%20Boring%20Movies.sql) |
 | 637 | [二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-637-Average%20of%20Levels%20in%20Binary%20Tree.js) |
+| 654 | [最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-654-Maximum%20Binary%20Tree.js) |
 | 657 | [判断路线成圈](https://leetcode-cn.com/problems/judge-route-circle/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-657-Judge%20Route%20Circle.js) |
 | 682 | [棒球比赛](https://leetcode-cn.com/problems/baseball-game/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-682-Baseball%20Game.js) |
 | 696 | [计数二进制子串](https://leetcode-cn.com/problems/count-binary-substrings/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-696-Count%20Binary%20Substrings.js) |
