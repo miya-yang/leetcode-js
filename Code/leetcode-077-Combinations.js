@@ -17,7 +17,7 @@ var combine = function(n, k) {
             result.push(arr);
             return;
         }
-        for (let i = start; i <= n; i++) {
+        for (let i = start; i <= n - (k - arr.length) + 1; i++) {
             let arrData = arr.concat([i]);
             backtracking(i + 1, arrData);
         }
