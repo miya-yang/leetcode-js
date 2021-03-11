@@ -13,6 +13,9 @@
 var combinationSum3 = function(k, n) {
     let result = [];
     const backtracking = (arr, remain, count, start) => {
+        if (remain < 0) {
+            return;
+        }
         if (count === 0) {
             if (remain === 0) {
                 result.push(arr);
