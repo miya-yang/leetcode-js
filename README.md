@@ -115,6 +115,7 @@
 | 463 | [岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-463-Island%20Perimeter.js) |
 | 476 | [数字的补数](https://leetcode-cn.com/problems/number-complement/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-476-Number%20Complement.js) |
 | 485 | [最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-485-Max%20Consecutive%20Ones.js) |
+| 491 | [递增子序列](https://leetcode-cn.com/problems/increasing-subsequences/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-491-Increasing%20Subsequences.js) |
 | 496 | [下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-496-Next%20Greater%20Element%20I.js) |
 | 500 | [键盘行](https://leetcode-cn.com/problems/keyboard-row/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-500-Keyboard%20Row.js) |
 | 501 | [二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-501-Find%20Mode%20in%20Binary%20Search%20Tree.js) |
