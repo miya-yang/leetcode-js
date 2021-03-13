@@ -12,25 +12,29 @@
 var partition = function(s) {
     let result = [];
 
-    const backtracking = (arr, remainArr) => {
-        if (remainArr.length === 0) {
+    // 判断是否为回文数
+    const isPali = (str) => {
+        return str === str.split('').reverse().join('');
+    }
+
+    const backtracking = (arr, index) => {
+        // 判断是否遍历结束，且arr中均为回文数
+        if (index >= s.length) {
             result.push(arr);
-            return;
         }
-        for (let i = 1; i <= remainArr.length; i++) {
-            let item = remainArr.slice(0, i);
-            if (item.map((it, ind) => it === item[item.length - ind - 1]).every(it => it)) {
-                // 相等，是回文数
-                let tempArr = arr.slice();
-                tempArr.push(item.join(''));
-                backtracking(tempArr, remainArr.slice(i));
+        for (let i = index; i < s.length; i++) {
+            let arrClone = arr.slice();
+            let str = s.substring(index, i + 1);
+            // 当结果是回文数时，push
+            if (isPali(str)) {
+                arrClone.push(str);
+                backtracking(arrClone, i + 1);
             }
         }
     }
 
-    backtracking([], s.split(''));
+    backtracking([], 0);
     return result;
 };
 // @lc code=end
 
-console.log(partition('aab'))
