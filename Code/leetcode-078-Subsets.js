@@ -13,10 +13,6 @@ var subsets = function(nums) {
     let result = [[]];
 
     const backtracking = (arr, index) => {
-        if (index >= nums.length) {
-            return;
-        }
-
         for (let i = index; i < nums.length; i++) {
             let tempArr = arr.slice();
             tempArr.push(nums[i]);
