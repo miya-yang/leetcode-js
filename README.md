@@ -174,6 +174,7 @@
 | 剑指 04 | [二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/剑指-04-二维数组中的查找%20LCOF.js) |
 | 剑指 05 | [替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/剑指-05-替换空格%20LCOF.js) |
 | 剑指 06 | [从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/剑指-06-从尾到头打印链表%20LCOF.js) |
+| 剑指 07 | [重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/剑指-07-重建二叉树%20LCOF.js) |
 | 剑指 09 | [用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/剑指-09-用两个栈实现队列%20LCOF.js) |
 | 剑指 10- I | [斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/剑指-10-%20I-斐波那契数列%20%20LCOF.js) |
 | 剑指 10- II | [青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/剑指-10-%20II-青蛙跳台阶问题%20%20LCOF.js) |
