@@ -31,6 +31,7 @@
 | 040 | [组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-040-Combination%20Sum%20II.js) |
 | 041 | [缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/description/) | <font color=red>困难</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-041-First%20Missing%20Positive.js) |
 | 046 | [全排列](https://leetcode-cn.com/problems/permutations/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-046-Permutations.js) |
+| 047 | [全排列 II](https://leetcode-cn.com/problems/permutations-ii/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-047-Permutations%20II.js) |
 | 048 | [旋转图像](https://leetcode-cn.com/problems/rotate-image/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-048-Rotate%20Image.js) |
 | 053 | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-053-Maximum%20Subarray.js) |
 | 054 | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-054-Spiral%20Matrix.js) |
