@@ -185,6 +185,7 @@
 | 剑指 25 | [合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/剑指-25-合并两个排序的链表%20LCOF.js) |
 | 剑指 26 | [树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/剑指-26-树的子结构%20LCOF.js) |
 | 剑指 27 | [二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/剑指-27-二叉树的镜像%20LCOF.js) |
+| 剑指 28 | [对称的二叉树](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/剑指-28-对称的二叉树%20LCOF.js) |
 | 剑指 29 | [顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/剑指-29-顺时针打印矩阵%20LCOF.js) |
 | 剑指 32- I | [从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/剑指-32-%20I-从上到下打印二叉树%20LCOF.js) |
 | 面试题 01.01 | [判定字符是否唯一](https://leetcode-cn.com/problems/is-unique-lcci/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/面试题-01.01-Is%20Unique%20LCCI.js) |
