@@ -35,6 +35,7 @@
 | 048 | [旋转图像](https://leetcode-cn.com/problems/rotate-image/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-048-Rotate%20Image.js) |
 | 053 | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-053-Maximum%20Subarray.js) |
 | 054 | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-054-Spiral%20Matrix.js) |
+| 055 | [跳跃游戏](https://leetcode-cn.com/problems/jump-game/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-055-Jump%20Game.js) |
 | 058 | [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-058-Length%20of%20Last%20Word.js) |
 | 059 | [螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-059-Spiral%20Matrix%20II.js) |
 | 066 | [加一](https://leetcode-cn.com/problems/plus-one/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-066-Plus%20One.js) |
@@ -162,6 +163,7 @@
 | 914 | [卡牌分组](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-914-X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards.js) |
 | 922 | [按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-922-Sort%20Array%20By%20Parity%20II.js) |
 | 929 | [独特的电子邮件地址](https://leetcode-cn.com/problems/unique-email-addresses/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-929-Unique%20Email%20Addresses.js) |
+| 942 | [增减字符串匹配](https://leetcode-cn.com/problems/di-string-match/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-942-DI%20String%20Match.js) |
 | 961 | [重复 N 次的元素](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-961-N-Repeated%20Element%20in%20Size%202N%20Array.js) |
 | 1078 | [Bigram 分词](https://leetcode-cn.com/problems/occurrences-after-bigram/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-1078-Occurrences%20After%20Bigram.js) |
 | 1108 | [IP 地址无效化](https://leetcode-cn.com/problems/defanging-an-ip-address/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-1108-Defanging%20an%20IP%20Address.js) |
