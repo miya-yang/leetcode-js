@@ -10,6 +10,7 @@
 | # | 标题 | 难度 | 代码 |
 | ------------- | ------------- | ------------- | ------------- |
 | 001 | [两数之和](https://leetcode-cn.com/problems/two-sum/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-001-Two%20Sum.js) |
+| 002 | [两数相加](https://leetcode-cn.com/problems/add-two-numbers/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-002-Add%20Two%20Numbers.js) |
 | 003 | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-003-Longest%20Substring%20Without%20Repeating%20Characters.js) |
 | 004 | [寻找两个有序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/description/) | <font color=red>困难</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-004-Median%20of%20Two%20Sorted%20Arrays.js) |
 | 006 | [Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-006-ZigZag%20Conversions.js) |
@@ -203,4 +204,5 @@
 | 面试题 01.09 | [字符串轮转](https://leetcode-cn.com/problems/string-rotation-lcci/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/面试题-01.09-String%20Rotation%20LCCI.js) |
 | 面试题 02.02 | [返回倒数第 k 个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/面试题-02.02-Kth%20Node%20From%20End%20of%20List%20LCCI.js) |
 | 面试题 02.03 | [删除中间节点](https://leetcode-cn.com/problems/delete-middle-node-lcci/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/面试题-02.03-Delete%20Middle%20Node%20LCCI.js) |
+| 面试题 10.01 | [合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/面试题-10.01-Sorted%20Merge%20LCCI.js) |
 | 面试题 16.02 | [单词频率](https://leetcode-cn.com/problems/words-frequency-lcci/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/面试题-16.02-Words%20Frequency%20LCCI.js) |
