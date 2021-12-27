@@ -36,3 +36,42 @@
 
   return ++result;
 };
+
+var wiggleMaxLength2 = function(nums) {
+    if (nums.length === 0 || (nums.length === 2 && nums[0] === nums[1] && nums[0] !== 0)) {
+        return 0;
+    }
+
+    if (nums.length === 1) {
+        return 1;
+    }
+
+    let dValues = [];
+    let count = 0;
+    let flag = 0;
+
+    for (let i = 1; i < nums.length; i++) {
+        dValues.push(nums[i] - nums[i - 1]);
+    }
+
+    for (let i = 0; i < dValues.length; i++) {
+        const item = dValues[i];
+        if (flag === 0) {
+            if (item !== 0) {
+                flag = item > 0 ? 1 : -1;
+                count++;
+            }
+        } else {
+            if ((item > 0 && flag === -1) || (item < 0 && flag === 1)) {
+                flag *= -1;
+                count++;
+            } else {
+                if (item !== 0) {
+                    flag = item > 0 ? 1 : -1;
+                }
+            }
+        }
+    }
+
+    return count + 1;
+};
