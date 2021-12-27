@@ -37,3 +37,14 @@ var maxProfit2 = function(prices) {
 
   return result;
 }
+
+// 解法三
+var maxProfit3 = function(prices) {
+  let profit = 0;
+
+  for (let i = 1; i < prices.length; i++) {
+      profit += Math.max(prices[i] - prices[i - 1], 0);
+  }
+
+  return profit;
+};
