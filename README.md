@@ -39,6 +39,7 @@
 | 055 | [跳跃游戏](https://leetcode-cn.com/problems/jump-game/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-055-Jump%20Game.js) |
 | 058 | [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-058-Length%20of%20Last%20Word.js) |
 | 059 | [螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-059-Spiral%20Matrix%20II.js) |
+| 062 | [不同路径](https://leetcode-cn.com/problems/unique-paths/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-062-Unique%20Paths.js) |
 | 066 | [加一](https://leetcode-cn.com/problems/plus-one/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-066-Plus%20One.js) |
 | 067 | [二进制求和](https://leetcode-cn.com/problems/add-binary/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-067-Add%20Binary.js) |
 | 070 | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-070-Climbing%20Stairs.js) |
