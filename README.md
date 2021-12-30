@@ -68,6 +68,7 @@
 | 112 | [路径总和](https://leetcode-cn.com/problems/path-sum/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-112-Path%20Sum.js) |
 | 113 | [路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-113-Path%20Sum%20II.js) |
 | 118 | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-118-Pascal's%20Triangle.js) |
+| 119 | [杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-119-Pascal's%20Triangle%20II.js) |
 | 121 | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-121-Best%20Time%20to%20Buy%20and%20Sell%20Stock.js) |
 | 122 | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-122-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.js) |
 | 125 | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-125-Valid%20Palindrome.js) |
