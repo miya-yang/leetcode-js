@@ -77,6 +77,7 @@
 | 131 | [分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-131-Palindrome%20Partitioning.js) |
 | 134 | [加油站](https://leetcode-cn.com/problems/gas-station/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-134-Gas%20Station.js) |
 | 136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-136-Single%20Number.js) |
+| 141 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/description/) | <font color=green>简单</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-141-Linked%20List%20Cycle.js) |
 | 142 | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-142-Linked%20List%20Cycle%20II.js) |
 | 144 | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/description/) | <font color=orange>中等</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-144-Binary%20Tree%20Preorder%20Traversal.js) |
 | 145 | [二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/description/) | <font color=red>困难</font> | [传送门](https://github.com/miya-yang/leetcode/blob/master/Code/leetcode-145-Binary%20Tree%20Postorder%20Traversal.js) |
